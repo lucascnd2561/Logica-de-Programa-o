@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\lucas.scamilo2\\source\\repos\\logica_programacao\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{04DDFFD7-A6D4-497D-AA60-E2587698B4CE}|ex07b\\ex07b.csproj|c:\\users\\lucas.scamilo2\\source\\repos\\logica_programacao\\ex07b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DDFFD7-A6D4-497D-AA60-E2587698B4CE}|ex07b\\ex07b.csproj|solutionrelative:ex07b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2BBACD3B-BAFB-4076-BCD6-25504CC00B66}|EX07\\EX07.csproj|c:\\users\\lucas.scamilo2\\source\\repos\\logica_programacao\\ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BBACD3B-BAFB-4076-BCD6-25504CC00B66}|EX07\\EX07.csproj|solutionrelative:ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,15 +26,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.scamilo2\\source\\repos\\logica_programacao\\ex07b\\Program.cs",
+              "RelativeDocumentMoniker": "ex07b\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas.scamilo2\\source\\repos\\logica_programacao\\ex07b\\Program.cs",
+              "RelativeToolTip": "ex07b\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T23:27:58.554Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lucas.scamilo2\\source\\repos\\logica_programacao\\EX07\\Program.cs",
               "RelativeDocumentMoniker": "EX07\\Program.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lucas.scamilo2\\source\\repos\\logica_programacao\\Ex06\\Program.cs",
               "RelativeDocumentMoniker": "Ex06\\Program.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lucas.scamilo2\\source\\repos\\logica_programacao\\ex05\\Program.cs",
               "RelativeDocumentMoniker": "ex05\\Program.cs",
